@@ -1,0 +1,18 @@
+[
+    {
+        "type": "JSON",
+        "id": 1
+    },
+    {
+        "type": "XML",
+        "id": 2
+    },
+    {
+        "type": "CSV",
+        "id": 3
+    },
+    {
+        "type": "XLSX",
+        "id": 4
+    }
+]
